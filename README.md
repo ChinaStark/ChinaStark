@@ -1,6 +1,6 @@
-## 👋 Hi there is @ChinaStrak(Zhiliang Long).
-## 🔭 I’m currently studying on ShenZhen University.
-## 🤔 I’m considering various research directions, possibly in the areas of TRACKING or KGs; I am not certain, but everything seems possible.
+- 👋 Hi there is @ChinaStrak(Zhiliang Long).
+- 🔭 I’m currently studying on ShenZhen University.
+- 🤔 I’m considering various research directions, possibly in the areas of TRACKING or KGs; I am not certain, but everything seems possible.
 <!--
 **ChinaStark/ChinaStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
