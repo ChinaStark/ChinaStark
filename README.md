@@ -1,11 +1,12 @@
-## Hi there 👋
-
+## 👋 Hi there is @ChinaStrak(Zhiliang Long).
+## 🔭 I’m currently studying on ShenZhen University.
+## 🤔 I’m considering various research directions, possibly in the areas of TRACKING or KGs; I am not certain, but everything seems possible.
 <!--
 **ChinaStark/ChinaStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
