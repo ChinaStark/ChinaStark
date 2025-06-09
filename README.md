@@ -1,6 +1,7 @@
 - 👋 Hi there is @ChinaStrak(Zhiliang Long).
 - 🔭 I’m currently studying on ShenZhen University.
-- 🤔 I’m considering various research directions, possibly in the areas of TRACKING or KGs; I am not certain, but everything seems possible.
+- 🌱 I’m currently researching NL2SQL.
+- 🤔 I’m looking for an internship opportunity in llm.
 <!--
 **ChinaStark/ChinaStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
