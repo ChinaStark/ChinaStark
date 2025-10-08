@@ -10,14 +10,23 @@
 
 ### 🧠 Research & Interests
 
-> Exploring the intersection of **Natural Language Understanding** and **Database Reasoning**  
-> Focused on:
+🎓 *Currently at Shenzhen University*  
+Exploring the intersection of **Natural Language Understanding** and **Database Reasoning**, with a focus on:
 > - 🧩 **NL2SQL (Natural Language to SQL)**
 > - 🧮 **Reasoning in Large Language Models (LLMs)**
 > - 🧰 **Hallucination In LLM**
 > - 🧱 **Multi-Agent**
 > - 📊 **Model Tuning, include RL, SFT**
 
+---
+
+### 🏆 Achievements & Awards
+
+- 🥉 **Bronze Medal**, *ICPC Jiangxi Provincial Programming Contest* (2023)  
+  Competed as team leader and won a provincial **bronze medal** for algorithmic problem-solving and teamwork excellence.
+
+- 💰 **9th China Merchants Bank Digital Finance Bootcamp** (2025)  
+  Awarded a **1888 RMB scholarship** for excellence in LLM fine-tuning.
 ---
 
 ### 🧰 Developer Stack
