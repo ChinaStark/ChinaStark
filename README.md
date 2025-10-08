@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm <a href="https://github.com/ChinaStark">Zhiliang Long (ChinaStark)</a></h1>
+<h1 align="center">👋 Hi there, I'm <a href="https://github.com/ChinaStark">Zhiliang Long</a></h1>
 
 <!-- Dynamic typing headline -->
 <p align="center">
