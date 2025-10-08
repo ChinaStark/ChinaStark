@@ -68,9 +68,19 @@
 ---
 
 ### 📫 How to Reach Me
-<a href="mailto:2410103062@mails.szu.edu.cn">
-  <img src="https://img.shields.io/badge/Shenzhen%20University-%23B30000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAARVBMVEUAAAD///////////////////////////////////////////////////////////////////9cXGsuAAAAI3RSTlMAEBAgICg8QEBAT1BQUVFRYmNjZGRkbW1ub3Bwc3NzdHV1dpzvWgAAAHtJREFUeNqN0EsSgCAMBMBPi6YJxv3fKEXG4hE+IhOK1fQCCY1EtFd6eUym4CNOhgy7a7J6OLZBgIpg5JKq5gOqKFXZ8Xkek1zqPnpVn+Y5KTVKkUYO0Rxg4pQxg4ZQxQ4pQxw5pQxA5rQxQ6pA1TwA4+IDhAH7FSz0QAAAABJRU5ErkJggg==&logoColor=white&labelColor=7A0C0C" alt="Shenzhen University Email Badge" />
-</a>
+<p align="left">
+  <!-- SZU mail -->
+  <a href="mailto:2410103062@mails.szu.edu.cn">
+    <img src="https://img.shields.io/badge/Shenzhen%20University-%23B30000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAARVBMVEUAAAD///////////////////////////////////////////////////////////////////9cXGsuAAAAI3RSTlMAEBAgICg8QEBAT1BQUVFRYmNjZGRkbW1ub3Bwc3NzdHV1dpzvWgAAAHtJREFUeNqN0EsSgCAMBMBPi6YJxv3fKEXG4hE+IhOK1fQCCY1EtFd6eUym4CNOhgy7a7J6OLZBgIpg5JKq5gOqKFXZ8Xkek1zqPnpVn+Y5KTVKkUYO0Rxg4pQxg4ZQxQ4pQxw5pQxA5rQxQ6pA1TwA4+IDhAH7FSz0QAAAABJRU5ErkJggg==&logoColor=white&labelColor=7A0C0C" alt="Shenzhen University Email Badge" />
+  </a>
+  
+  <!-- QQ mail -->
+  <a href="mailto:chinastark@qq.com">
+    <img src="https://img.shields.io/badge/QQ%20Mail-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ Mail" />
+  </a>
+</p>
+
+
 
 ---
 
