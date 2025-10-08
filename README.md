@@ -88,7 +88,7 @@
   </a>
   
   <!-- QQ mail -->
-  <a href="mailto:chinastark@qq.com">
+  <a href="mailto:3099234061@qq.com">
     <img src="https://img.shields.io/badge/QQ%20Mail-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ Mail" />
   </a>
 </p>
