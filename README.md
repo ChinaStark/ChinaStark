@@ -3,7 +3,7 @@
 
 <!-- Dynamic typing headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=880&lines=Building+intelligent+agents+for+the+next+generation+of+LLMs...;Less+is+more:+small-model+agents+%26+open-source;NL2SQL+%7C+Hallucination+Mitigation+%7C+Reasoning+Reliability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=880&lines=Building+intelligent+agents+for+the+next+generation+of+LLMs...;Less+is+more:+small-model+agents+%26+open-source;NL2SQL+%7C+Reasoning+Reliability" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,18 +14,23 @@
 > Focused on:
 > - 🧩 **NL2SQL (Natural Language to SQL)**
 > - 🧮 **Reasoning in Large Language Models (LLMs)**
-> - 🧰 **Hallucination Detection & Factual Consistency**
-> - 🧱 **Multi-Agent SQL Correction & Execution Verification**
-> - 📊 **Data Synthesis, Schema Completion, Reinforcement Fine-tuning**
+> - 🧰 **Hallucination In LLM**
+> - 🧱 **Multi-Agent**
+> - 📊 **Model Tuning, include RL, SFT**
 
 ---
 
 ### 🧰 Developer Stack
-
 <!-- 🧰 Developer Stack -->
+
+> 💡 I build across the full stack — from backend engineering to modern web frontends.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,vue,js,html,css,spring,mysql,redis,docker,linux,git&perline=18" />
+</p>
+
+<p align="center">
+  🧑‍💻 *Always expanding — exploring more techs.*
 </p>
 
 ---
@@ -33,16 +38,24 @@
 ### 🤖 LLM & AI Frameworks
 <!-- 🤖 LLM & AI Frameworks -->
 
+> 🧠 Researching and developing large language models, with a focus on reasoning, optimization, and scalability.
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,anaconda&perline=10" />
-  
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=openai&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/LlamaFactory-1a1a1a?style=for-the-badge&logo=meta&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Unsloth-00C4B3?style=for-the-badge&logo=python&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=UCBerkeley&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/LlamaFactory-1a1a1a?style=for-the-badge&logo=llamafactory&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Unsloth-00C4B3?style=for-the-badge&logo=unsloth&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/VeRL-00C4B3?style=for-the-badge&logo=bytedance&logoColor=white" height="28" />
 </p>
+
+<p align="center">
+  🌱 *Continuously learning — not just the tools, but the theory.*
+</p>
+
 
 ---
 
