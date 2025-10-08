@@ -1,6 +1,6 @@
 - 👋 Hi there is @ChinaStrak(Zhiliang Long).
 - 🔭 I’m currently studying on ShenZhen University.
-- 🌱 I’m currently researching NL2SQL.
+- 🌱 I’m currently researching **natural language to SQL (NL2SQL)** and the broader behavior of large language models (LLMs), including topics such as **hallucination**, **factual consistency**, and **reasoning reliability**.
 - 🤔 I’m looking for an internship opportunity in llm.
 <!--
 **ChinaStark/ChinaStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
