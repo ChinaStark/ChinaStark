@@ -10,7 +10,7 @@
 
 ### 🧠 Research & Interests
 
-🎓 *Currently at Shenzhen University(2024.09~2027.07)*  
+🎓 *Master student at Shenzhen University (September 2024~July 2027)*  
 Exploring the intersection of **Natural Language Understanding** and **Database Reasoning**, with a focus on:
 > - 🧩 **NL2SQL (Natural Language to SQL)**
 > - 🧮 **Reasoning in Large Language Models (LLMs)**
