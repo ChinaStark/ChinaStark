@@ -21,6 +21,8 @@ Exploring the intersection of **Natural Language Understanding** and **Database 
 ---
 
 ### 🏆 Achievements & Awards
+- 🥈 **Second Prize**, The 2nd CACC Regional Contest (2025)
+  Secured the Second Prize in the regional round and qualified for the CACC National Finals (scheduled for April 2026).
 
 - 🥉 **Bronze Medal**, *ICPC Jiangxi Provincial Programming Contest* (2023)  
   Competed as team leader and won a provincial **bronze medal** for algorithmic problem-solving and teamwork excellence.
