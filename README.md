@@ -2,11 +2,6 @@
 <h1 align="center">👋 Hi there, I'm <a href="https://chinastark.github.io/selfintro/">Zhiliang Long</a></h1>
 
 <!-- Dynamic typing headline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=880&lines=Building+intelligent+agents+for+the+next+generation+of+LLMs...;Less+is+more:+small-model+agents+%26+open-source;NL2SQL+%7C+Reasoning+Reliability" alt="Typing SVG" />
-</p>
-
----
 
 ### 🧠 Research & Interests
 
