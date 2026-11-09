@@ -15,6 +15,16 @@ Exploring the intersection of **Natural Language Understanding** and **Database 
 
 ---
 
+### 💼 Internship Experience
+
+- **Huawei** (Jul 2026 – Present) · Enterprise knowledge QA, on-policy distillation, and tool-call evaluation.
+- **ByteDance** (Apr – Jul 2026) · Built a code repair agent for Douyin with automated bug reproduction and patch validation.
+- **vivo** (Feb – Apr 2026) · Optimized small models for SWE agents through trajectory synthesis, SFT, RL, and test-time search.
+
+[Read more on my personal website](https://chinastark.github.io/selfintro/#internships).
+
+---
+
 ### 🏆 Achievements & Awards
 - 🥈 **Second Prize**, The 2nd CACC Regional Contest (2025)
 
